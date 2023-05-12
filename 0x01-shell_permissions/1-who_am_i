@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd user_name
+echo $user
