@@ -1,1 +1,2 @@
-14-findthatword
+#!/bin/bash
+find -i "root" /etc/passswd
